@@ -1,4 +1,4 @@
-# this file contains the main branch codeowners
+# this file contains the staging branch codeowners
 
-main -1
-main -2
+stage -1
+stage -2
