@@ -1,1 +1,2 @@
 i am from the main branch
+i am also from the staging branch
