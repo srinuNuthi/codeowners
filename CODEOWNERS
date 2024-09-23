@@ -1,4 +1,4 @@
-# this file contains the main branch codeowners
+# this file contains the dev branch codeowners
 
-main -1
-main -2
+dev -1
+dev -2
