@@ -1,7 +1,5 @@
-# this branch has contains the code owners for the main branch
+# this branch contains the dev branch owners
 
-stage@1
-stage@2
-stage@3
-stage@4
-
+dev@1
+dev@2
+dev@3
