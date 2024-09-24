@@ -1,5 +1,9 @@
-# this branch contains the stage branch codeowners
 
-stage@1
-stage@2
-stage@3
+# this branch has contains the code owners for the main branch
+
+main@1
+main@2
+main@3
+
+
+
